@@ -24,7 +24,7 @@ ProxyBotTelegram is a Telegram bot that automatically updates and shares free pr
    ```
 2. Clone this repository:
    ```sh
-   git clone [https://github.com/your-username/ProxyBotTelegram.git](https://github.com/Thuankobtcode/ProxyBotTelegram)
+   git clone https://github.com/Thuankobtcode/ProxyBotTelegram
    cd ProxyBotTelegram
    ```
 3. Install required dependencies:
