@@ -3,8 +3,8 @@ const axios = require('axios');
 const fs = require('fs');
 const geoip = require('geoip-lite');
 
-const BOT_TOKEN = 'BOT';
-const CHANNEL_ID = '-ID CHANNEL OF GROUP';  
+const BOT_TOKEN = '7644358907:AAGsWqRHQFVoKcc8RqzE2BEc1JxbwSkSxBw ';
+const CHANNEL_ID = '-1002577183452';  
 
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });
 
